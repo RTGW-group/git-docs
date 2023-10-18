@@ -10,7 +10,7 @@ git clone https://github.com/RTGW-group/RTGW2020.git rtgw2020-v2.8.5 --branch mu
 * Add the original remote server to you local repo 'git cloned' for a fork
 ```bash
 git remote -v
-git remote add upstream https://github.com/RTGW-group/RTGW2020.git
+git remote add upstream git@github.com:RTGW-group/RTGW2020.git 
 git remote -v
 ```
 
